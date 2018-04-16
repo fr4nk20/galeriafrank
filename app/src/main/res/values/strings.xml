@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">galeriaejemplo</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="ImagenPrevia">Imagen Previa</string>
+    <string name="galerydescription">Programación 3 unadeca</string>
+    <string name="username">Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="loggin">Iniciar sesión</string>
+    <string name="register">Registrarce</string>
+    <string name="registerandlogin">Registrarse E iniciar sesión</string>
+    <string name="agregarimagen">Agregar Imagen</string>
+    <string name="loginerror">Sucedio un error al iniciar sesion, los campos estan vacios</string>
+    <string name="tryregister">No se encontro información para este usuario intente registrarlo</string>
+    <string name="roll">Rol</string>
+    <string name="app_login">Iniciar sesión</string>
+    <string name="app_register">Registrate</string>
+    <string name="loogout">Cerrar sesion</string>
+    <string name="Nombre">Escriba su nombre</string>
+    <string name="Descripcion">Coloque su descripción</string>
+    <string name="Autor">Coloque el nombre del autor</string>
+    <string name="galeriafrank">frank</string>
+</resources>
